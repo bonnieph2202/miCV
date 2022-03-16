@@ -1,0 +1,60 @@
+/* El astedisco afecta a toooodos los elementos del sitio */
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+
+p:hover{
+    color:chartreuse;
+}
+
+body{
+    background-color: lightblue;
+}
+
+#siete {
+    color: black;
+}
+
+.par{
+    color:blue
+}
+
+.impar{
+    color: blueviolet;
+}
+
+.caja{
+    height: 100px;
+    background: green;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 50px;
+}
+.cajita{
+    height: 50px;
+    width: 50px;
+    background: hotpink;
+    border: 3px dashed blue ;
+}
+<style>
+
+nav{
+    background: green;
+    color:red;
+}
+li{
+    background: white;
+}
+a:hover{
+    color:blue;
+}
+</style>

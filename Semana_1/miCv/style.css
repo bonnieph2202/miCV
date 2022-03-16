@@ -1,0 +1,82 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#contenedor_izquierdo{
+    height: 100%;
+    width: 50%;
+    float: left;
+    background-color: darkcyan;
+}
+#contenedor_informacion{
+    background-color:darkgray;
+}
+#foto{
+    height: 150px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 25%;
+    border-radius: 75%;
+}
+#Nombre{
+    margin-left: 25%;
+
+}
+#main_info{
+    text-align: center;
+    font-size: 20px;
+}
+
+#main_programas{
+    text-align: center;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+hr{
+    background-color: blue;
+}
+.informacion{
+    font-style: italic;
+}
+.respuesta_info{
+    font-style: italic;
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.programa{
+    font-style: italic;
+}
+#contenedor_programas{
+    background-color: blueviolet;
+}
+#contenedor_derecho{
+    background-color:darksalmon;
+    float: right;
+    width: 50%;
+    height: 100%;
+}
+#main_formacion{
+    text-align: center;
+    font-size: 20px;
+}
+.info_grado{
+    text-align: justify;
+    font-style: italic;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+
+}
+.grado{
+    text-align: justify;
+    padding-left: 15px;
+    font-size: 16px;
+    margin-top: 20px;
+}
